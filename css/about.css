@@ -2,9 +2,16 @@ body{
     background-color: #9088d4;
 }
 nav{
-    display:block;
+    display:inline;
+
+    
 }
 nav ul{
     display: flex;
     justify-content: space-evenly;
+    /* list-style-type:none; */
+    text-decoration:none;
+
+    list-style: none;
+
  }
