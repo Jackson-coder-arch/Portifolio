@@ -3,8 +3,15 @@ body{
 }
 nav{
     display:inline;
+
+    
 }
 nav ul{
     display: flex;
     justify-content: space-evenly;
+    /* list-style-type:none; */
+    text-decoration:none;
+
+    list-style: none;
+
  }

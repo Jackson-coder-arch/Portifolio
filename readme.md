@@ -1,8 +1,9 @@
 # Portifolio
 #### This is a portifolio that speaks more about me and has a few details incase you want to get in touch with me. Friday 4th Dec 2020
 #### By Jackson Ikonya Miring'u 
+# https://jackson-coder-arch.github.io/Portifolio/
 ## Description
-My portifolio entails more about who i am as a person some of the small things that define me. It has an about page where you get to know Jack as a person. Also has a contact page to enable anyone who would love to get in touch with me to do so.
+My portifolio entails more about who i am as a person some of the small things that define me. It has an about page where you get to know Jack as a person. Also has a contact page to enable anyone who would  to get in touch with me to do so.
 ## Known Bugs
 So far no issues encountered
 ## Technologies Used
